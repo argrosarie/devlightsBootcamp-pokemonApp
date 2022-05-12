@@ -19,7 +19,7 @@ const Home = () => {
           <div className='relative text-center'>
                  <p className='text-primary text-3xl font-bold bg-transparent absolute top-24  inset-y-0 right-8 w-[600px]'>
                      This is an App made for Devlights Bootcamps. 
-                     Here you can find a list to find your favorite Pokemon and see every part of your character.
+                     Here you can find a list to find your favorite Pokemon and see every detail of your character.
                      You have to log in in this App in order to see them.<br/>
                      GOTTA CATCH'EM ALL!
                      </p>
